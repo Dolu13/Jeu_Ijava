@@ -1,0 +1,36 @@
+ChessCape
+
+
+
+• Nombre de joueurs : 1.
+
+
+• But du jeu : atteindre le niveau du boss final et le battre.
+
+
+
+• Déroulement du jeu :
+
+
+
+Vous atterrissez en tant que Roi dans une salle. Seule face à d'autres pièces d'échecs.
+
+
+Déplacez-vous à travers la salle en évitant de vous faire attrapez par les autres pièces.
+
+
+Vous Pouvez aussi les manger, peut-être, ils vous rejoindront dans votre périple.
+
+
+
+• Comment ? :
+
+
+
+Rentrez les coordonnez de la pièce que vous voulez contrôlez.
+
+
+Ensuite, apparaîtra les déplacements disponibles pour cette pièce.
+
+
+Rentrez les coordonnez de votre destination (pour fuir ou manger d'autres pièces).
